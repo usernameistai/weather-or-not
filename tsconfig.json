@@ -13,6 +13,6 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    // "noEmit": true, // added this chatgpt
+    // "noEmit": false, // added this chatgpt
   }
 }
